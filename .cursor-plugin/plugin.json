@@ -1,0 +1,11 @@
+{
+  "name": "spacesheep",
+  "description": "Publish pages from your agent to private, shareable spacesheep.dev links, then read, update and share them.",
+  "version": "1.0.0",
+  "author": { "name": "Spacesheep" },
+  "homepage": "https://spacesheep.dev",
+  "repository": "https://github.com/spacesheep-dev/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["spacesheep"],
+  "logo": "assets/logo.svg"
+}
