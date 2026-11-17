@@ -15,7 +15,7 @@ Publish pages from your agent to a private, shareable link on [spacesheep.dev](h
 2. The first time the agent uses Spacesheep, Cursor asks you to sign in. Sign in with your Spacesheep account (or make one) and approve the connection. There is no key to paste.
 3. Ask for a page: "publish this report as a page", "make a one-pager for the launch", "update my plan at spacesheep.dev/@you/plan".
 
-New pages are private to you until you share them.
+New pages use your account's default audience: private, unless you've changed it.
 
 ## Configuration
 
