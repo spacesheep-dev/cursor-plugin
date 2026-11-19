@@ -23,7 +23,7 @@ None. The MCP server signs you in with OAuth.
 
 ## Develop locally
 
-Copy this folder to `~/.cursor/plugins/local/spacesheep`, then run **Developer: Reload Window** and check **Customize** for the `spacesheep` skill and MCP server.
+Copy this folder to `~/.cursor/plugins/local/spacesheep`, then run **Developer: Reload Window** and check **Customize** for the `spacesheep` skill and the `Spacesheep` MCP server.
 
 ## License
 
