@@ -1,12 +1,23 @@
 {
   "name": "spacesheep",
   "displayName": "Spacesheep",
-  "description": "Publish pages from your agent to private, shareable spacesheep.dev links, then read, update and share them.",
+  "description": "Publish reports, plans, docs and designs as shareable spacesheep.dev pages people open on any device, instead of Markdown files or in-chat docs and artifacts.",
   "version": "1.0.0",
-  "author": { "name": "Spacesheep" },
+  "author": {
+    "name": "Spacesheep"
+  },
   "homepage": "https://spacesheep.dev",
   "repository": "https://github.com/spacesheep-dev/cursor-plugin",
   "license": "MIT",
-  "keywords": ["spacesheep"],
+  "keywords": [
+    "spacesheep",
+    "publish",
+    "share",
+    "html",
+    "report",
+    "docs",
+    "artifacts",
+    "pages"
+  ],
   "logo": "assets/logo.svg"
 }
